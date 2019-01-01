@@ -1,0 +1,21 @@
+[submodule "Data-Mining/Big-Data-Resources"]
+	path = Data-Mining/Big-Data-Resources
+	url = https://github.com/weiweifan/Big-Data-Resources.git
+[submodule "Computer-Vision/cvcode"]
+	path = Computer-Vision/cvcode
+	url = https://github.com/KTOC/cvcode.git
+[submodule "Computer-Vision/Deformable-ConvNets"]
+	path = Computer-Vision/Deformable-ConvNets
+	url = https://github.com/msracver/Deformable-ConvNets.git
+[submodule "Computer-Vision/Detectron"]
+	path = Computer-Vision/Detectron
+	url = https://github.com/facebookresearch/Detectron.git
+[submodule "Computer-Vision/faster_rcnn"]
+	path = Computer-Vision/faster_rcnn
+	url = https://github.com/ShaoqingRen/faster_rcnn.git
+[submodule "Computer-Vision/stereo-disparity-map"]
+	path = Computer-Vision/stereo-disparity-map
+	url = https://github.com/mbaird/stereo-disparity-map.git
+[submodule "Computer-Vision/pytorch-faster-rcnn"]
+	path = Computer-Vision/pytorch-faster-rcnn
+	url = https://github.com/ruotianluo/pytorch-faster-rcnn.git
